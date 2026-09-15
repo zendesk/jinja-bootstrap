@@ -13,6 +13,20 @@ Here are some formulas for you:
 
 **NOTE:** This library is under active development. Please [open an issue][issues] if you have problems, questions, or suggestions for improvements to the code or the documentation.
 
+This is a Zendesk fork of [jinja-bootstrap](http://github.com/auzigog/jinja-bootstrap), maintained for Zendesk Chat services.
+
+## Owners
+
+While anyone can contribute to the repository, the primary owner of this repository is **[ChatOps](https://cerebro.zende.sk/teams/chat-ops)**, located in Pune.
+
+| Channel  | Contact                                                            |
+|----------|--------------------------------------------------------------------|
+| Slack    | [ChatOps](https://zendesk.slack.com/archives/ask-chops)            |
+| Email    | chops@zendesk.com                                                  |
+| GitHub   | [@zendesk/chat-ops](https://github.com/orgs/zendesk/teams/chat-ops) |
+
+We are working in **India Standard Time** (IST) (UTC +5:30).
+
 ## Features
 
   * A `base.html` template to use as a base for your bootstrap projects
